@@ -15,8 +15,8 @@ Hier finden sich alle Informationen und Einstellungen die für die korrekte Einr
 <br>
 
 #### Einstellungen Formulare
-1. Tragen Sie auf der Seite `Profil` den Shortcode von Ultimate Member für das Profil Formular ein. Diesen finden Sie in den Ultimate Member Einstellungen im Bereich Formulare. `bild falsch!`
-![Formulare](/documentation/assets/UM_Allgemein_Benutzer_Documentation.jpg)
+1. Tragen Sie auf der Seite `Profil` "*Dashboard-Menu --> Seiten --> Profil*" den Shortcode von Ultimate Member für das Profil Formular ein. Diesen finden Sie in den Ultimate Member Einstellungen im Bereich Formulare (kopieren&einfügen).
+![Formulare](/documentation/assets/UM_Profilseite_Shortcode_.jpg)
 
 <br>
 <br>
@@ -26,25 +26,28 @@ Hier finden sich alle Informationen und Einstellungen die für die korrekte Einr
 <br>
 <br>
 
-3. Deaktivieren Sie in den Einstellungen "Allgemein --> Konto" die Datenschutz, Nachrichten und die Konto löschen Registerkarte. `! muss das weg?`
+3. Deaktivieren Sie in den Einstellungen "*Allgemein --> Konto*" die Datenschutz, Nachrichten und die Konto löschen Registerkarte. `! muss das weg?`
 ![Datenschutz](/documentation/assets/UM_Allgemein_Konto_Documentation.jpg)
 
 
-
-#### Einstellungen – Benutzer `ist automatisiert`
-1. Deaktivieren Sie in den Einstellungen von Ultimate Member unter dem Bereich Benutzer die Profilweiterleitung und das Mitgliederverzeichnis.
-![Benutzereinstellungen](/documentation/assets/UM_Allgemein_Benutzer_Documentation.jpg)
 
 #### Einstellungen – E-Mail `audit`
 1. Deaktivieren Sie unter dem Bereich E-Mail alle Benachrichtigungen, außer der Willkommens- der Aktivierungs- sowie den beiden Passwort E-Mails.
 ![E-Mail Einstellungen](/documentation/assets/E-Mail_Documentation.jpg)
 
 #### Einstellungen – Weiterleitungen `automatisiert`
-1. Stellen Sie in den Einstellungen von Ultimate Member im Bereich Benutzerrollen die korrekten Weiterleitungen bei der Benutzerrolle "Subscriber" und "Administrator" ein. Ändern Sie die Einstellung wie folgt als Registrierungs- Anmelde- und Abmeldeoption:<br>
-Maßnahmen, die nach der Anmeldung ergriffen werden --> Zu URL Umleiten
-Benutzerdefinierte Weiterleitungs-URL setzen --> quartiersplattform-domain.de** (Durch die Domain der Quartiersplattform Installation ersetzen)
+1. Stellen Sie in "*Ultimate Member --> Benutzerrollen*" die korrekten Weiterleitungen für die Benutzerrollen "*Subscriber*" und "*Administrator*" ein. Ändern Sie die Einstellung wie folgt als Registrierungs-, Anmelde- und Abmeldeoption:<br>
+	* Maßnahmen, die nach der Anmeldung ergriffen werden --> Zu URL Umleiten<br>
+	* Benutzerdefinierte Weiterleitungs-URL setzen --> quartiersplattform-domain.de** (Durch die Domain der Quartiersplattform Installation ersetzen)
 ![Benutzerrollen](/documentation/assets/UM_Benutzerrollen_Weiterleitung_Documentation.jpg)
 
+***
+
+## Anmerkungen
+
+#### Einstellungen – Benutzer
+1. In den Einstellungen von Ultimate Member unter dem Bereich Benutzer lassen sich die die Profilweiterleitung und das Mitgliederverzeichnis nicht aktivieren! Dies wird vom Theme verhindert.
+![Benutzereinstellungen](/documentation/assets/UM_Allgemein_Benutzer_Documentation.jpg)
 
 
 

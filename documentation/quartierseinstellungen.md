@@ -6,6 +6,8 @@ Hier finden sich alle Informationen und Einstellungen die für die korrekte Einr
 #### Allgemeine Quartierseinstellungen
 1. Legen Sie die Seite Datenschutzerklärung mit den Informationen Ihrer Organisation für die Quartiersplattform an, indem Sie auf die Schaltfläche klicken.
 ![Quartierseinstellungen](/documentation/assets/QP_Datenschutz_Documentation.jpg)
+
+In der erscheinenden Seite klicken Sie auf `Erstellen`. Es gibt noch keine vorgefertigte Seite im Auswahlmenü darunter.
 <br>
 <br>
 
